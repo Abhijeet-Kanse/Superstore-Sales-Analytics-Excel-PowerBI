@@ -117,10 +117,9 @@ Date Table = ADDCOLUMNS(CALENDAR(MIN(Orders[Order Date]),MAX(Orders[Order Date])
 
 ## 📦 Deliverables  
 
-- 📊 Dashboard → `Super_store_analytics_dashboard_2.pbix`  
-- 📂 Dataset → `Sample - Superstore.xls`  
-- 🖼️ Screenshot → Dashboard preview  
-- 📑 REPORT.md → This report file  
+- 📊 Dashboard → [`Super_store_analytics_dashboard_2.pbix` ](https://github.com/Abhijeet-Kanse/Superstore-Sales-Analytics-Excel-PowerBI/blob/main/Super_store_analytics_dashboard_2.pbix) 
+- 📂 Dataset → [`Superstore.xls`](https://github.com/Abhijeet-Kanse/Superstore-Sales-Analytics-Excel-PowerBI/blob/main/Superstore.xls)   
+- 📑 README.md → This report file  
 
 ---
 
