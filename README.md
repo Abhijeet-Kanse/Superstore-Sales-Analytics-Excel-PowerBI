@@ -5,7 +5,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![Excel](https://img.shields.io/badge/Excel-DataCleaning-green)
 ![DAX](https://img.shields.io/badge/DAX-Formulas-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 
 An **interactive analytics dashboard** built using **Power BI**, with **Excel-based data cleaning** and **DAX formulas** for advanced metrics.  
 The project uncovers insights into **sales, profit, returns, and customer performance** across product categories, regions, and time.  
